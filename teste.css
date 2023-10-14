@@ -12,7 +12,7 @@ section{
   align-items: center;
   min-height: 100vh;
   width: 100%;
-  background: url(https://lh3.googleusercontent.com/pw/ADCreHeJRyGSDVsBrb9rwwDX9evqoaASiX7n_qZydegzaxnI8p-ezwVQtT0NYXqukyZCdapsI9Grf_Vv0Wh7a4SSVxCideK7gnvRhIfXOxpcL11Gyt3A-r9tiTt66ecgJgpb4SCUS4cJ-_hHor1dL57GIH0=w693-h693-s-no?authuser=0) no-repeat;
+  background: url(https://lh3.googleusercontent.com/pw/ADCreHeV4ktT_3VOcoaLr0T44lCsTOLzEeWZfuGXyaJlTIocnKnsmmpjwWj_JuNkj2XQaRdDG92ovBlUuH7-lQVLfYBA0du4oTNn9FLsBqSoeYEZwBdkL3Vqiu-mK1HyDlDGbEJIyg3W7tfBbzRXb8LHiAY5=w1073-h603-s-no?authuser=0) no-repeat;
   background-position: center; 
   background-size:cover; 
 
@@ -66,7 +66,7 @@ input:valid ~ label{
 }
 .inputbox ion-icon{
   position: absolute;
-  right: 8px;
+  right: 10px;
   color: #fff;
   font-size: 1.2em;
   top: 20px;
@@ -113,6 +113,7 @@ body{
 }
 .check {
   position: relative;
+  margin: 10px;
   width: 20px;
   height: 20px;
   border-radius: 5px;
